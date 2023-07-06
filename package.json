@@ -1,0 +1,12 @@
+{
+  "name": "@codexporer.io/expo-animated-skeleton",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-paper": "*",
+    "lodash": "*",
+    "expo-linear-gradient": "*"
+  }
+}
