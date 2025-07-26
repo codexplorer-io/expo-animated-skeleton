@@ -4,9 +4,9 @@
   "main": "src/index.js",
   "peerDependencies": {
     "react": "*",
-    "react-native": "*",
     "react-native-paper": "*",
     "lodash": "*",
-    "expo-linear-gradient": "*"
+    "react-native-reanimated": "*",
+    "@shopify/react-native-skia": "*"
   }
 }
